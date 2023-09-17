@@ -1,0 +1,12 @@
+/* footer style  */
+.footer{
+    background-color: #27293d;
+    color: #ecf0f1;  
+}
+
+/* icon style  */
+.fab{
+    color: white;
+    font-size: 20px;
+    margin-right: 10px;
+}

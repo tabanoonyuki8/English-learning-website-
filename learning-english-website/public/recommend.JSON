@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "English Grammar Launch: Upgrade your speaking and listening",
+        "img": "https://englishlive.ef.com/blog/wp-content/uploads/sites/2/2015/05/fluency-in-5-easy-steps.jpg",
+        "duration": "6 hours",
+        "instructor": "Anthony Kelleher",
+        "price": "14$",
+        "description": "Learn English grammar through lectures and listening and speaking practice."
+    },
+    {
+        "id": 2,
+        "name": "Spanish for Beginners. The complete Method.",
+        "img": "https://dp4g669tqdae4.cloudfront.net/content/uploads/2019/09/12161658/Espanol.-Translation-Spanish.-Language-hand-drawn-doodles-and-lettering.-1087621188_7013x4954.jpg",
+        "duration": "8hours",
+        "instructor": "Peter",
+        "price": "11$",
+        "description": "Learn Spanish with the complete, non-stop SPEAKING method - in a matter of days, not years."
+    },
+    {
+        "id": 3,
+        "name": "French for Beginners. The Complete Method.",
+        "img": "https://du5jhqks4kn0y.cloudfront.net/5be139fae1e91d006c24f3c0/6f11e0c3-ece6-c3b8-6461-d296e22c2377.jpg",
+        "duration": "9 hours",
+        "instructor": "Hanley",
+        "price": "15$",
+        "description": "Learn French painlessly: The complete, non-stop SPEAKING French language course for beginners."
+    },
+    {
+        "id": 4,
+        "name": "Learn German Language: Complete German Course - Beginners",
+        "img": "https://d37sy4vufic209.cloudfront.net/website/_next/static/dynamic/2e5365d78e4a3c7e83045c507560911d/700.jpg",
+        "duration": "5.5 hours",
+        "instructor": "AbcEdu",
+        "price": "13$",
+        "description": "Learn German with a Native Teacher. Complete Course."
+    }
+]
